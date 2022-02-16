@@ -1,6 +1,5 @@
 body{
     background-image: url(kepek/c1cfe73a2707e36b0eca1aa1707e7a97.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
@@ -41,6 +40,10 @@ nav{
 
 footer{
     text-align: center;
+    padding: 2px;
+    background-color: #424F46;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 
 h1{
