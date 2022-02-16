@@ -2,6 +2,7 @@ main {
     max-width: 1000px;
     margin: auto;
     background-color: black;
+    border-radius: 15px;
 }
 body {
     background-image: url(kepek/1148429.jpg);
@@ -9,14 +10,23 @@ body {
     background-size: cover;
     color: #fed90f;
 }
+h1 {
+    text-align: center;
+    padding: 5px;
+}
 
 img {
     max-width: 300px;
-    padding: 10px;
+    padding: 2px;
+    border: 2px solid white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #838280;
 }
 
 article {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-wrap: wrap;
+    align-items: baseline;
+    padding: 20px;
 }
