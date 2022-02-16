@@ -1,0 +1,49 @@
+main {
+    max-width: 1000px;
+    margin: auto;
+    background-color: black;
+    border-radius: 15px;
+}
+body {
+    background-image: url(kepek/1148429.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fed90f;
+}
+
+img{
+    max-width: 300px;
+    padding: 10px;
+}
+
+article {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+ul{
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+}
+
+a{
+    color: #FED90F;
+    text-decoration: none;
+}
+
+nav{
+    background: #424F46;
+}
+
+footer{
+    text-align: center;
+    padding: 2px;
+    background-color: #424F46;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
