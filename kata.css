@@ -1,0 +1,10 @@
+main {
+    max-width: 1000px;
+    margin: auto;
+    background-color: black;
+}
+body {
+    background-image: url(kepek/1148429.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
