@@ -27,6 +27,32 @@ article {
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    align-items: baseline;
+    align-items: flex-start;
     padding: 20px;
+    gap: 15px;
 }
+
+ul {
+    list-style-type: none;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+}
+
+a {
+    color: #fed90f;
+    text-decoration: none;
+}
+
+nav {
+    background: #424f46;
+}
+
+footer {
+    text-align: center;
+    padding: 2px;
+    background-color: #424F46;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
