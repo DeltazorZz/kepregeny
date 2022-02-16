@@ -7,4 +7,16 @@ body {
     background-image: url(kepek/1148429.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    color: #fed90f;
+}
+
+img {
+    max-width: 300px;
+    padding: 10px;
+}
+
+article {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
