@@ -6,14 +6,28 @@ body{
 main{
     max-width: 1000px;
     margin: auto;
-    background: #70D1FE;
-    opacity: 0.9;
+    background: black;
+    color: #FED90F;
+    border-radius: 15px;
 }
 
 ul{
     list-style-type: none;
-    padding: 0px;
+    padding: 10px;
     display: flex;
     flex-direction: row;
     gap: 20px;
+}
+
+a{
+    color: #FED90F;
+    text-decoration: none;
+}
+
+nav{
+    background: #424F46;
+}
+
+footer{
+    text-align: center;
 }
