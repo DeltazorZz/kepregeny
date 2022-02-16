@@ -1,8 +1,13 @@
+body{
+    background-image: url(kepek/c1cfe73a2707e36b0eca1aa1707e7a97.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 main{
     max-width: 1000px;
     margin: auto;
     background: #70D1FE;
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 ul{
