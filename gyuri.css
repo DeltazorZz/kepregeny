@@ -11,7 +11,7 @@ body {
     color: #fed90f;
 }
 
-img{
+.kozep img{
     max-width: 300px;
     padding: 10px;
 }
@@ -46,4 +46,13 @@ footer{
     background-color: #424F46;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
+}
+#egyes img{
+    max-width: 930px;
+    padding: 15px;
+
+}
+#utolso img{
+    max-width: 930px;
+    padding: 15px;
 }
